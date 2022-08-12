@@ -1,0 +1,7 @@
+build/
+dist/
+nbproject/
+src/sistema/BancoDeDados.java
+test/
+build.xml
+manifest.mf
